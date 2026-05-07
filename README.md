@@ -1,81 +1,30 @@
-# Hi there, I'm Samm 👋
+# Hey, I'm Samm 👋
+
+### 🚀 Microservice & API Developer
 
 ```java
-public class Samm504 {
-    String role = "Microservice & API Developer";
+Developer samm = new Developer();
 
-    String[] specialties = {
-        "Java",
-        "Spring Boot",
-        "REST APIs",
-        "Microservices"
-    };
-
-    String[] interests = {
-        "Cybersecurity",
-        "Agentic AI",
-        "Cloud Systems"
-    };
-
-    String[] aiTools = {
-        "GitHub Copilot",
-        "Claude",
-        "Gemini"
-    };
-
-    void currentlyLearning() {
-        System.out.println("Cybersecurity, AI Agents, and Scalable Backend Systems");
-    }
-}
+samm.skills("Java", "Spring Boot", "Microservices");
+samm.interests("Cybersecurity", "Agentic AI", "Cloud");
+samm.aiTools("Copilot", "Claude", "Gemini");
 ```
 
-## 🚀 About Me
+## 💻 Tech Stack
 
-I'm **@Samm504**, a backend-focused developer passionate about building scalable APIs and microservices using Java and Spring Boot.
-
-### 👨‍💻 What I Do
-- Build scalable backend systems
-- Design RESTful APIs
-- Develop microservice architectures
-- Explore AI-assisted development
-
-### 🌱 Currently Learning
-- Cybersecurity
-- Agentic AI
-- Cloud-native development
-- Secure software design
-
-## 🛠️ Tech Stack
-
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools & Interests
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-A66CFF?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+## 🌱 Currently Exploring
 
-## 📌 Goals
-- Improve system design skills
-- Learn offensive & defensive cybersecurity
-- Build AI-powered developer tools
-- Create production-ready backend systems
+- 🔐 Cybersecurity
+- 🤖 Agentic AI
+- ☁️ Cloud & scalable systems
 
-## 📊 GitHub Activity
+## ⚡ Fun Fact
 
-```text
-Building APIs...
-Scaling Microservices...
-Learning Every Day...
-```
-
-## 🤝 Connect With Me
-
-- 💻 Open to backend & AI-related collaborations
-- 🚀 Always learning and building new things
+> I enjoy building backend systems almost as much as breaking and securing them.
 
 ---
-
-> "Code. Learn. Build. Repeat."
+⭐ Always building, always learning.
